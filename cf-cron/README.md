@@ -40,3 +40,5 @@ The binary for Supercronic comes from  https://github.com/aptible/supercronic/re
 
 While the cron container here is designed to be small and lightweight, you may want to use it to trigger more resource intensive tasks and processes. When a simple `curl` to an http endpoint is not enough to kick off such a task on your existing app, [Cloud Foundry Tasks](https://docs.cloudfoundry.org/devguide/using-tasks.html) are a great solution to run these processes. 
 
+
+<!-- Auto-update: 2025-10-18T09:55:04.579747 -->
